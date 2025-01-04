@@ -1,0 +1,20 @@
+[
+    {
+        "fname":"Nari",
+        "email":"n@gmail.com",
+        "mobile":"8888888888",
+        "address":"Bangalore"
+    },
+    {
+        "fname":"Japesh",
+        "email":"njp@gmail.com",
+        "mobile":"8765248912",
+        "address":"Mangalore"
+    },
+    {
+        "fname":"Rahul",
+        "email":"rhl@gmail.com",
+        "mobile":"1234567890",
+        "address":"Mumbai"
+    }
+]

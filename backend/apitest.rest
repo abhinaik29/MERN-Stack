@@ -1,0 +1,12 @@
+get http://localhost:2222/contact/customerlist
+
+
+###
+post http://localhost:2222/contact/savecustomer
+Content-Type: application/json
+
+{
+  "fullname":"abcd",
+  "mobileno":"123456789",
+  "myaddress":"asdasd"
+}
